@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentFormatOpenXmlTestConsole", "DocumentFormatOpenXmlTestConsole\DocumentFormatOpenXmlTestConsole.csproj", "{529C329B-49BB-443A-AEF1-1B25E7D09198}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{529C329B-49BB-443A-AEF1-1B25E7D09198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529C329B-49BB-443A-AEF1-1B25E7D09198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529C329B-49BB-443A-AEF1-1B25E7D09198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529C329B-49BB-443A-AEF1-1B25E7D09198}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C7BD9A1-911F-4E39-9A77-4EAC4B437A03}
+	EndGlobalSection
+EndGlobal
